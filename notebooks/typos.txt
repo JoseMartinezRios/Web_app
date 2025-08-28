@@ -1,0 +1,480 @@
+Maker: Audi, Model: 
+Q4E": "Q4 E-Tron",
+Q4": "Q4 E-Tron",
+Q4 E": "Q4 E-Tron",
+Q4 E Sb": "Q4 E-Tron",
+Esv": "Q4 E-Tron",
+E-Tron Technik Quatt": "Q4 E-Tron",
+Q5E": "Q5 E-Tron",
+Q5": "Q5 E-Tron",
+E-Sb": "Q8 E-Tron Sportback",
+E-TRON S SPORTBACK": "Q8 E-Tron Sportback",
+Q8E Sb": "Q8 E-Tron Sportback",
+Sq8 E": "Q8 E-Tron",
+Q8 E": "Q8 E-Tron",
+Etr": "E-Tron Gt",
+Etro": "E-Tron Gt",
+E-Tro": "E-Tron Gt",
+E-Tron": "E-Tron Gt",
+R7 Se": "Rs7",
+R7Se": "Rs7",
+3.0Ae": "A3",
+Q6E": "Q6 E-Tron",
+Q6": "Q6 E-Tron",
+Q6 60E": "Q6 E-Tron",
+
+BMW 
+DELETE HEA
+Ix Xdrive50 Hea": "Ix Xdrive50",
+Cooper": "Mini Cooper Se",
+Mini Coper": "Mini Cooper Se",
+02-29-00----------delete------------
+
+Cadillac
+Lyriq
+Optiq
+Escalade Iq
+Escalade
+Esciq
+Vistiq
+
+
+Chevrolet
+Bolt Euv
+Bolt Euv Lt
+Bolt Ev Lt
+Bolt Premier
+Bolt Ev Premier
+Blazer
+Blaev
+Lyriq =============== CADILLAC another maker
+Blazer Ev
+Bolt
+Bolt Ev
+Bolt Evv
+Volt
+CHEVROLET BLAZER SS EV
+Ssm
+Spark
+Spark Ev
+Equev
+Equinox
+Equinoxev
+Equinox Ev
+Silverado
+Silvarado
+Silverado  Ev
+Silverado Ev
+Silev
+CHEVROLET EV600 - BRIGHTDROP 600 - brightdropev600
+Ev600
+
+
+
+Ford
+F150 Lightning
+Lightning
+W1Xe
+F-150 Lightning
+F150 Lightening
+F150
+F 150
+F-150
+F150 4*4 C
+F150 4X4 C
+F150 4X4
+F-150 Supercre
+Trans
+Transit
+Trans Cargo
+Tran Mr Cargo R
+Lr Cargo R
+Trans Hr Cargo R
+E-Transit Cargo
+E Transit
+E-Transit
+E-Transit Cargo Van
+E-Transit 350
+Ford Transit 350 Van
+Mach
+Mach-
+Mache
+Mach-E
+Mach E
+Mache-E
+Mustang Mache
+Mach E Mustang
+Mach-Mustang
+Mustang Mach-E
+Mustand Mach-E
+Mustang Mach E
+Mustang Mach E K34
+Mustang Mac
+Mustang
+Mustang Mach
+Mustang Ma
+Mustang  Ma
+Mustand Mach
+Mustang Mach-
+Musta
+MUSTANG MACH-E PREMIUM AWD
+Mach Premium Aw
+FORD RANGER TKE
+Tke
+
+
+GMC
+HUMMER EV SUV
+Hummer
+Hummr
+Hummer Ev
+Hummer Suv
+Sierra
+Sieev
+Sierra Ev
+Sierra-Ev
+
+HAULOTTE-----DELETE
+4527.0A
+5533.0A
+Hta16P4527
+
+
+HONDA
+Cr-V
+Crv
+Sc4324 Vt1100C2F4----DELETE
+
+
+HYUNDAI 
+Ion
+Ionqi
+Ioniq
+Ioniq Electric
+Ioniq Ev
+Ioniq 9
+Ioniq 6
+Ionic 6
+Ioiq 6
+Ioniq6
+Ioiq5
+Ioniq5
+Ionic 5
+Ioniw 5
+Ioniq-5
+Ioniq- 5
+Ioniq 5 
+
+Ioniq 5 N
+
+Gv60
+Genesis Gv60
+Kona Pref E/V --KONA EV PREFERRED
+Asp ---------------DELETE?
+Kona
+K3G Kona
+K2G
+K3G
+K6G
+Kona Ev 
+Kova Ev
+Kona  Ev
+Kona Electric
+Kona Electrci
+
+Kona Ultimate
+Kona Ev Ultimate
+
+
+
+
+JAGUAR
+I-Pace
+Ipace
+
+JEEP
+Wrangler ===> 4xe
+Grand
+Grand Cherokee
+Wrangler Unlimited ==4XE
+
+KIA
+Niro
+Niro Ev
+Niro Ex
+Niro Electric
+Niro Sg2 Phev
+Soul
+Sev (Soul)
+Soul Ev
+Soul Ev (Sk3Ev)
+Soul Electric
+Soul Ev (Sk3 Ev
+Soul Ev (Sk3 Ev)
+Ev9
+Ev6 -----------GT
+Ev6 (Cv)
+Ev6 Cv
+Ev6(Cv)
+Kona Ev -------------hyundai
+Kona
+
+
+Maker: Lexus, Model: 
+Rx -----rz
+
+
+MAZDA
+Mx30
+Mx-30
+Mx-30 Ev
+
+
+MERCEDES BENZ
+Amg Eqs 4Matic----good
+Eqe
+Eqe350
+Eqe 350
+Equ350
+Eqe 350 4Matic
+Eqs450
+Eqs 450
+Eqs4504Matic
+Eqs 580
+Eqs580
+Eqs 580 4Matic
+Eqb250
+Eqb 300
+Eqb300
+Eqb 350
+Eqb350
+Eqb
+E2C170H-My24------EQA 250
+
+
+
+MINI
+Cooper Se
+Cooper
+Cooperse3Door
+Se
+Cooper Se 3-Ddor
+Cooper Se 3-Door
+Cooperse
+Cooper Se 3 Door
+Countryman
+Cooper Countryman
+
+
+
+MITSUBISHI
+Imiev
+I Miev
+I-Miev
+
+
+NISSAN
+Leaf
+Lsv
+Ssr
+Lvl
+Lfs
+Leal
+Ariya
+Aryia
+Leaf S Plus
+Leaf S/Sv/Sl
+Leaf S Auto
+P1B2R25V ------ car part--delete
+
+
+POLESTAR
+2 Long Range Dual
+2
+3
+POLESTAR MOTOR VEHICLES
+2
+01-31-00 ---polestar 1
+
+
+PORSCHE
+Taycan
+Y1Ade1
+Y1Afc1
+Macan
+Macan Ev
+Xabbb1 ----- macan 4
+
+
+RIVIAN
+R1S
+Rs1
+Tge ---r1t
+R1T
+
+
+SMART
+Fortwo
+Fortw
+Eq Fortwo --original
+
+
+Tesla
+Y
+Yge
+Modey Y
+Model Y
+Model  Y
+Modely
+Model Y Long Range
+Y Long Range Awd
+Long Range
+Model Y Rear Wheel
+Y Rear Wheel-----------rear wheel drive------rwd
+3
+3.0Ee
+3.0D
+3.0000000
+Tesla 3
+T3
+Mode 3
+Model3
+Mode; 3
+Model 3
+Mocel 3
+Tesl 3 2019
+Model 3 Rear-Wheel D -----rear wheel drive
+X
+Xce
+Modelx
+Model X Long Range
+X75D----good
+X P100D----goood
+Model X Plaid
+Model X
+Model
+S
+Mss
+Sedan
+5
+Ms5
+Model S
+Model S 75D
+75.0D
+Modle S 85D
+S 85D
+S90D
+Model S 90D
+
+
+Toyota
+Rav4
+Rav4 Hv
+Rav4 Hybrid
+Rav4 Prime
+Corolla Cross Hybrid
+Corolla
+Corolla Hybrid
+Corolla Cross
+Grand Highlander Hyb
+Grand Highlander
+Highlander
+Highlander Hybrid
+7Fbj35 -----cargo bull----delete
+8Fbcu25
+
+
+Volkswagen
+Id4
+Id 4
+Id.4
+Jrg
+1.0D.4
+1.0D4
+1D4 Awd-------ID.4PRO S
+Id4 Awd
+Id.4 Awd
+Id.4Awd
+1D.4 Awd
+Id 4 Awd
+Id4 Pro S
+Id.4 Awd S
+Id4 Awd S
+Id4 Pro
+Golf
+E Golf
+Egp 
+2.0Me
+E-Golf
+E-Golf Cl Aut Fwd-----egolf
+Id Buzz
+Volk,6Ye-----ID.6
+
+
+Volvo
+C 40
+C40
+Ex 40----original-cambiar los demas a este
+Xc40
+Ede
+Xc 40
+Xc-40
+C40 Rch
+Xc40 Recharge
+C40 Recharge
+C40 Rch Twin Ult
+Xc40Rc Ultim
+Xc40Recharge
+Xc40 Rch
+
+
+
+
+{
+    "Q5E": "Q5 E",
+    "Q4E": "Q4 E",
+    "Etr": "E-tron",
+    "Mini Coper": "Mini Cooper",
+    "02-29-00": "",
+    "Esciq": "Escalade Iq",
+    "Blaev": "Blazer Ev",
+    "Equev": "Equinox Ev",
+    "Equinoxev": "Equinox Ev",
+    "Silev": "Silverado Ev",
+    "Silverado  Ev": "Silverado Ev",
+    "Silvarado": "Silverado Ev",
+    "Trans": "E-Transit Cargo Van",
+    "Trans Cargo": "E-Transit Cargo Van",
+    "F150 Lightning": "F-150 Lightning",
+    "F150 Lightening": "F-150 Lightning",
+    "Mach-": "Mustang Mach-E",
+    "Mach": "Mustang Mach-E",
+    "Mache": "Mustang Mach-E",
+    "Mache-E": "Mustang Mach-E",
+    "Mach-Mustang": "Mustang Mach-E",
+    "F150": "F-150 Lightning",
+    "F 150": "F-150 Lightning",
+    "F 150": "F-150 Lightning",
+    "Lightning": "F-150 Lightning",
+    "W1Xe": "F-150 Supercrew",
+    "F-150 Supercre": "F-150 Supercrew",
+    "F150 4*4 C": "F-150 4x4 Cargo",
+    "F150 4X4 C": "F-150 4x4 Cargo",
+    "Mustand Mach": "Mustang Mach-E",
+    "Musta": "Mustang Mach-E",
+    "Mustang Ma": "Mustang Mach-E",
+    "Mustang  Ma": "Mustang Mach-E",
+    "Mustang Mac": "Mustang Mach-E",
+    "Mustang Mach E": "Mustang Mach-E",
+    "Mustang Mach E K34": "Mustang Mach-E",
+    "Mustand Mach-E": "Mustang Mach-E",
+    "Mach E Mustang": "Mustang Mach-E",
+    "Mustang Mach-": "Mustang Mach-E",
+    "Tke": "Ranger Tke",
+    "E Transit": "E-Transit Cargo Van",
+    "E-Transit Cargo": "E-Transit Cargo Van",
+    "Trans Hr Cargo R": "E-Transit Cargo Van",
+    "Ford Transit 350 Van": "E-Transit 350 Van",
+    "E-Transit 350": "E-Transit 350 Van",
+    "Tran Mr Cargo R": "E-Transit Cargo Van",
+}
