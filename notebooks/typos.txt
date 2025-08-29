@@ -1,216 +1,178 @@
-Maker: Audi, Model: 
-Q4E": "Q4 E-Tron",
-Q4": "Q4 E-Tron",
-Q4 E": "Q4 E-Tron",
-Q4 E Sb": "Q4 E-Tron",
-Esv": "Q4 E-Tron",
-E-Tron Technik Quatt": "Q4 E-Tron",
-Q5E": "Q5 E-Tron",
-Q5": "Q5 E-Tron",
-E-Sb": "Q8 E-Tron Sportback",
-E-TRON S SPORTBACK": "Q8 E-Tron Sportback",
-Q8E Sb": "Q8 E-Tron Sportback",
-Sq8 E": "Q8 E-Tron",
-Q8 E": "Q8 E-Tron",
-Etr": "E-Tron Gt",
-Etro": "E-Tron Gt",
-E-Tro": "E-Tron Gt",
-E-Tron": "E-Tron Gt",
-R7 Se": "Rs7",
-R7Se": "Rs7",
-3.0Ae": "A3",
-Q6E": "Q6 E-Tron",
-Q6": "Q6 E-Tron",
-Q6 60E": "Q6 E-Tron",
+"Maker: Audi, Model: 
+"Q4E": "Q4 E-Tron",
+"Q4": "Q4 E-Tron",
+"Q4 E": "Q4 E-Tron",
+"Q4 E Sb": "Q4 E-Tron",
+"Esv": "Q4 E-Tron",
+"E-Tron Technik Quatt": "Q4 E-Tron",
+"Q5E": "Q5 E-Tron",
+"Q5": "Q5 E-Tron",
+"E-Sb": "Q8 E-Tron Sportback",
+"E-TRON S SPORTBACK": "Q8 E-Tron Sportback",
+"Q8E Sb": "Q8 E-Tron Sportback",
+"Sq8 E": "Q8 E-Tron",
+"Q8 E": "Q8 E-Tron",
+"Etr": "E-Tron Gt",
+"Etro": "E-Tron Gt",
+"E-Tro": "E-Tron Gt",
+"E-Tron": "E-Tron Gt",
+"R7 Se": "Rs7",
+"R7Se": "Rs7",
+"3.0Ae": "A3",
+"Q6E": "Q6 E-Tron",
+"Q6": "Q6 E-Tron",
+"Q6 60E": "Q6 E-Tron",
 
 BMW 
 DELETE HEA
-Ix Xdrive50 Hea": "Ix Xdrive50",
-Cooper": "Mini Cooper Se",
-Mini Coper": "Mini Cooper Se",
-02-29-00----------delete------------
+"Ix Xdrive50 Hea": "Ix Xdrive50",
+"Cooper": "Mini Cooper Se",
+"Mini Coper": "Mini Cooper Se",
 
 Cadillac
-Lyriq
-Optiq
-Escalade Iq
-Escalade
-Esciq
-Vistiq
+"Escalade": "Escalade Iq",
+"Esciq": "Escalade Iq",
 
 
 Chevrolet
-Bolt Euv
-Bolt Euv Lt
-Bolt Ev Lt
-Bolt Premier
-Bolt Ev Premier
-Blazer
-Blaev
+"Bolt Euv": "Bolt Ev Premier",
+"Bolt Euv Lt": "Bolt Ev Premier",
+"Bolt Ev Lt": "Bolt Ev Premier",
+"Bolt Premier": "Bolt Ev Premier",
+"Blazer": "Blazer Ev",
+"Blaev": "Blazer Ev",
 Lyriq =============== CADILLAC another maker
-Blazer Ev
-Bolt
-Bolt Ev
-Bolt Evv
-Volt
-CHEVROLET BLAZER SS EV
-Ssm
-Spark
-Spark Ev
-Equev
-Equinox
-Equinoxev
-Equinox Ev
-Silverado
-Silvarado
-Silverado  Ev
-Silverado Ev
-Silev
-CHEVROLET EV600 - BRIGHTDROP 600 - brightdropev600
-Ev600
+"Bolt": "Bolt Ev",
+"Bolt Ev": "Bolt Ev",
+"Bolt Evv": "Bolt Ev",
+"Ssm": "Blazer Ss Ev",
+"Spark": "Spark Ev",
+"Equev": "Equinox Ev",
+"Equinox": "Equinox Ev",
+"Equinoxev": "Equinox Ev",
+"Silverado": "Silverado Ev",
+"Silvarado": "Silverado Ev",
+"Silverado  Ev": "Silverado Ev",
+"Silev": "Silverado Ev",
+"Ev600": "Brightdrop Ev600",
 
 
 
 Ford
-F150 Lightning
-Lightning
-W1Xe
-F-150 Lightning
-F150 Lightening
-F150
-F 150
-F-150
-F150 4*4 C
-F150 4X4 C
-F150 4X4
-F-150 Supercre
-Trans
-Transit
-Trans Cargo
-Tran Mr Cargo R
-Lr Cargo R
-Trans Hr Cargo R
-E-Transit Cargo
-E Transit
-E-Transit
-E-Transit Cargo Van
-E-Transit 350
-Ford Transit 350 Van
-Mach
-Mach-
-Mache
-Mach-E
-Mach E
-Mache-E
-Mustang Mache
-Mach E Mustang
-Mach-Mustang
-Mustang Mach-E
-Mustand Mach-E
-Mustang Mach E
-Mustang Mach E K34
-Mustang Mac
-Mustang
-Mustang Mach
-Mustang Ma
-Mustang  Ma
-Mustand Mach
-Mustang Mach-
-Musta
-MUSTANG MACH-E PREMIUM AWD
-Mach Premium Aw
-FORD RANGER TKE
-Tke
+	"F150 Lightning": "F-150 Lightning",
+p	"Lightning": "F-150 Lightning",
+"W1Xe": "F-150 Lightning",
+"F150 Lightening": "F-150 Lightning",
+"F150": "F-150 Lightning",
+"F 150": "F-150 Lightning",
+"F-150": "F-150 Lightning",
+"F150 4*4 C": "F-150 4x4 Supercrew",
+"F150 4X4 C": "F-150 4x4 Supercrew",
+"F150 4X4": "F-150 4x4 Supercrew",
+	"F-150 Supercre": "F-150 4x4 Supercrew",
+	"Trans": "E-Transit Cargo Van",
+	"Transit": "E-Transit Cargo Van",
+	"Trans Cargo": "E-Transit Cargo Van",
+	"Tran Mr Cargo R": "E-Transit Cargo Van",
+	"Lr Cargo R": "E-Transit Cargo Van",
+	"Trans Hr Cargo R": "E-Transit Cargo Van",
+	"E-Transit Cargo": "E-Transit Cargo Van",
+	"E Transit": "E-Transit Cargo Van",
+	"E-Transit": "E-Transit Cargo Van",
+	"E-Transit 350": "E-Transit Cargo Van",
+	"Ford Transit 350 Van": "E-Transit Cargo Van",
+	"Mach": "Mustang Mach-E",
+	"Mach-": "Mustang Mach-E",
+	"Mache": "Mustang Mach-E",
+	"Mach-E": "Mustang Mach-E",
+	"Mach E": "Mustang Mach-E",
+	"Mache-E": "Mustang Mach-E",
+	"Mustang Mache": "Mustang Mach-E",
+	"Mach E Mustang": "Mustang Mach-E",
+	"Mach-Mustang": "Mustang Mach-E",
+	"Mustand Mach-E": "Mustang Mach-E",
+	"Mustang Mach E": "Mustang Mach-E",
+	"Mustang Mach E K34": "Mustang Mach-E",
+	"Mustang Mac": "Mustang Mach-E",
+	"Mustang": "Mustang Mach-E",
+	"Mustang Mach": "Mustang Mach-E",
+	"Mustang Ma": "Mustang Mach-E",
+	"Mustang  Ma": "Mustang Mach-E",
+	"Mustand Mach": "Mustang Mach-E",
+	"Mustang Mach-": "Mustang Mach-E",
+	"Musta": "Mustang Mach-E",
+	"Mach Premium Aw": "Mustang Mach-E Premium Awd",
+	"Tke": "Ranger Tke",
 
 
 GMC
-HUMMER EV SUV
-Hummer
-Hummr
-Hummer Ev
-Hummer Suv
-Sierra
-Sieev
-Sierra Ev
-Sierra-Ev
+	"Hummer": "Hummer Ev Suv",
+	"Hummr": "Hummer Ev Suv",
+	"Hummer Ev": "Hummer Ev Suv",
+	"Hummer Suv": "Hummer Ev Suv",
+	"Sierra": "Sierra Ev",
+	"Sieev": "Sierra Ev",
+	"Sierra-Ev": "Sierra Ev",
 
-HAULOTTE-----DELETE
-4527.0A
-5533.0A
-Hta16P4527
 
 
 HONDA
-Cr-V
-Crv
-Sc4324 Vt1100C2F4----DELETE
+	"Crv": "Cr-V",
 
 
 HYUNDAI 
-Ion
-Ionqi
-Ioniq
-Ioniq Electric
-Ioniq Ev
-Ioniq 9
-Ioniq 6
-Ionic 6
-Ioiq 6
-Ioniq6
-Ioiq5
-Ioniq5
-Ionic 5
-Ioniw 5
-Ioniq-5
-Ioniq- 5
-Ioniq 5 
-
-Ioniq 5 N
-
-Gv60
-Genesis Gv60
-Kona Pref E/V --KONA EV PREFERRED
+	"Ion": "Ioniq Ev",
+	"Ionqi": "Ioniq Ev",
+	"Ioniq": "Ioniq Ev",
+	"Ioniq Electric": "Ioniq Ev",
+	"Ionic 6": "Ioniq 6",
+	"Ioiq 6": "Ioniq 6",
+	"Ioniq6": "Ioniq 6",
+	"Ioiq5": "Ioniq 5",
+	"Ioniq5": "Ioniq 5",
+	"Ionic 5": "Ioniq 5",
+	"Ioniw 5": "Ioniq 5",
+	"Ioniq-5": "Ioniq 5",
+	"Ioniq- 5": "Ioniq 5",
+	"Gv60": "Genesis Gv60",
+	"Kona Pref E/V": "Kona Ev Preferred",
 Asp ---------------DELETE?
-Kona
-K3G Kona
-K2G
-K3G
-K6G
-Kona Ev 
-Kova Ev
-Kona  Ev
-Kona Electric
-Kona Electrci
-
-Kona Ultimate
-Kona Ev Ultimate
+	"Kona": "Kona Ev",
+	"K3G Kona": "Kona Ev",
+	"K2G": "Kona Ev",
+	"K3G": "Kona Ev",
+	"K6G": "Kona Ev",
+	"Kona Ev ": "Kona Ev",
+	"Kova Ev": "Kona Ev",
+	"Kona  Ev": "Kona Ev",
+	"Kona Electric": "Kona Ev",
+	"Kona Electrci": "Kona Ev",
+	"Kona Ultimate": "Kona Ev Ultimate",
 
 
 
 
 JAGUAR
 I-Pace
-Ipace
+	"Ipace": "I-Pace",
 
 JEEP
-Wrangler ===> 4xe
-Grand
+Wrangler": "Wrangler Unlimited 4xe",
+Grand": "Grand Cherokee",
 Grand Cherokee
-Wrangler Unlimited ==4XE
+Wrangler Unlimited": "Wrangler Unlimited 4xe",
 
 KIA
-Niro
-Niro Ev
-Niro Ex
-Niro Electric
-Niro Sg2 Phev
-Soul
-Sev (Soul)
-Soul Ev
-Soul Ev (Sk3Ev)
-Soul Electric
-Soul Ev (Sk3 Ev
-Soul Ev (Sk3 Ev)
+Niro": "Niro Ev",
+Niro Ex": "Niro Ev",
+Niro Electric": "Niro Ev",
+Niro Sg2 Phev": "Niro Ev",
+Soul": "Soul Ev",
+Sev (Soul)": "Soul Ev",
+Soul Ev (Sk3Ev)": "Soul Ev",
+Soul Electric": "Soul Ev",
+Soul Ev (Sk3 Ev": "Soul Ev",
+Soul Ev (Sk3 Ev)": "Soul Ev",
 Ev9
 Ev6 -----------GT
 Ev6 (Cv)
@@ -221,71 +183,61 @@ Kona
 
 
 Maker: Lexus, Model: 
-Rx -----rz
+Rx": "Rz",
 
 
 MAZDA
-Mx30
-Mx-30
-Mx-30 Ev
+Mx30": "Mx-30 Ev",
+Mx-30": "Mx-30 Ev",
 
 
 MERCEDES BENZ
 Amg Eqs 4Matic----good
-Eqe
-Eqe350
-Eqe 350
-Equ350
-Eqe 350 4Matic
-Eqs450
-Eqs 450
-Eqs4504Matic
-Eqs 580
-Eqs580
-Eqs 580 4Matic
-Eqb250
-Eqb 300
-Eqb300
-Eqb 350
-Eqb350
-Eqb
-E2C170H-My24------EQA 250
+Eqe": "Eqe 350 4Matic",
+Eqe350": "Eqe 350 4Matic",
+Eqe 350": "Eqe 350 4Matic",
+Equ350": "Eqe 350 4Matic",
+Eqs450": "Eqs 450 4Matic",
+Eqs 450": "Eqs 450 4Matic",
+Eqs4504Matic": "Eqs 450 4Matic",
+Eqs 580": "Eqs 580 4Matic",
+Eqs580": "Eqs 580 4Matic",
+Eqs 580 4Matic": "Eqs 580 4Matic",
+Eqb250": "Eqb 250",
+Eqb300": "Eqb 300",
+Eqb350": "Eqb 350",
+Eqb": "Eqb 350",
+E2C170H-My24": "Eqa 250",
 
 
 
 MINI
-Cooper Se
-Cooper
-Cooperse3Door
-Se
-Cooper Se 3-Ddor
-Cooper Se 3-Door
-Cooperse
-Cooper Se 3 Door
-Countryman
-Cooper Countryman
+Cooper Se": "Cooper Se",
+Cooper": "Cooper Se",
+Cooperse3Door": "Cooper Se",
+Se": "Cooper Se",
+Cooper Se 3-Ddor": "Cooper Se",
+Cooper Se 3-Door": "Cooper Se",
+Cooperse": "Cooper Se",
+Cooper Se 3 Door": "Cooper Se",
+Countryman": "Cooper Countryman",
 
 
 
 MITSUBISHI
-Imiev
-I Miev
-I-Miev
+Imiev": "I-Miev",
+I Miev": "I-Miev",
 
 
 NISSAN
-Leaf
-Lsv
-Ssr
-Lvl
-Lfs
-Leal
-Ariya
-Aryia
-Leaf S Plus
-Leaf S/Sv/Sl
-Leaf S Auto
-P1B2R25V ------ car part--delete
+Lsv": "Leaf",
+Ssr": "Leaf",
+Lvl": "Leaf",
+Lfs": "Leaf",
+Leal": "Leaf",
+Aryia": "Ariya",
+Leaf S/Sv/Sl": "Leaf S Plus",
+Leaf S Auto": "Leaf S Plus",
 
 
 POLESTAR
@@ -294,140 +246,129 @@ POLESTAR
 3
 POLESTAR MOTOR VEHICLES
 2
-01-31-00 ---polestar 1
+01-31-00": "1",
 
 
 PORSCHE
-Taycan
-Y1Ade1
-Y1Afc1
-Macan
-Macan Ev
-Xabbb1 ----- macan 4
+Y1Ade1": "Taycan",
+Y1Afc1": "Taycan",
+Macan": "Macan Ev",
+Xabbb1": "Macan 4",
 
 
 RIVIAN
-R1S
-Rs1
-Tge ---r1t
-R1T
+Rs1": "R1S",
+Tge": "R1T",
 
 
 SMART
-Fortwo
-Fortw
-Eq Fortwo --original
+Fortwo": "Eq Fortwo",
+Fortw": "Eq Fortwo",
 
 
 Tesla
-Y
-Yge
-Modey Y
-Model Y
-Model  Y
-Modely
-Model Y Long Range
-Y Long Range Awd
-Long Range
-Model Y Rear Wheel
-Y Rear Wheel-----------rear wheel drive------rwd
-3
-3.0Ee
-3.0D
-3.0000000
-Tesla 3
-T3
-Mode 3
-Model3
-Mode; 3
-Model 3
-Mocel 3
-Tesl 3 2019
-Model 3 Rear-Wheel D -----rear wheel drive
-X
-Xce
-Modelx
-Model X Long Range
-X75D----good
-X P100D----goood
-Model X Plaid
-Model X
-Model
-S
-Mss
-Sedan
-5
-Ms5
-Model S
-Model S 75D
-75.0D
-Modle S 85D
-S 85D
-S90D
-Model S 90D
+Y": "Model Y",
+Yge": "Model Y",
+Modey Y": "Model Y",
+Model  Y": "Model Y",
+Modely": "Model Y",
+Y Long Range Awd": "Model Y Long Range",
+Long Range": "Model Y Long Range",
+Model Y Rear Wheel": "Model Y",
+Y Rear Wheel": "Model Y Rwd",
+3": "Model 3",
+3.0Ee": "Model 3",
+3.0D": "Model 3",
+3.0000000": "Model 3",
+Tesla 3": "Model 3",
+T3": "Model 3",
+Mode 3": "Model 3",
+Model3": "Model 3",
+Mode; 3": "Model 3",
+Mocel 3": "Model 3",
+Tesl 3 2019": "Model 3",
+Model 3 Rear-Wheel D": "Model 3 Rwd",
+X": "Model X",
+Xce": "Model X",
+Modelx": "Model X",
+Model X Long Range": "Model X",
+X75D": "Model X 75D",
+X P100D": "Model X P100D",
+Model": "Model X",
+S": "Model S",
+Mss": "Model S",
+Sedan": "Model S",
+5": "Model S",
+Ms5": "Model S",
+Model S": "Model S",
+75.0D": "Model S 75D",
+Modle S 85D": "Model S 85D",
+S 85D": "Model S 85D",
+S90D": "Model S 90D",
 
 
 Toyota
-Rav4
-Rav4 Hv
-Rav4 Hybrid
-Rav4 Prime
+Rav4": "Rav4 Hybrid",
+Rav4 Hv": "Rav4 Hybrid",
 Corolla Cross Hybrid
-Corolla
-Corolla Hybrid
-Corolla Cross
-Grand Highlander Hyb
-Grand Highlander
-Highlander
-Highlander Hybrid
-7Fbj35 -----cargo bull----delete
-8Fbcu25
+Corolla": "Corolla Cross Hybrid",
+Corolla Hybrid": "Corolla Cross Hybrid",
+Corolla Cross": "Corolla Cross Hybrid",
+Grand Highlander Hyb": "Grand Highlander Hybrid",
+Grand Highlander": "Grand Highlander Hybrid",
+Highlander": "Grand Highlander Hybrid",
+Highlander Hybrid": "Grand Highlander Hybrid",
 
 
 Volkswagen
-Id4
-Id 4
-Id.4
-Jrg
-1.0D.4
-1.0D4
-1D4 Awd-------ID.4PRO S
-Id4 Awd
-Id.4 Awd
-Id.4Awd
-1D.4 Awd
-Id 4 Awd
-Id4 Pro S
-Id.4 Awd S
-Id4 Awd S
-Id4 Pro
-Golf
-E Golf
-Egp 
-2.0Me
-E-Golf
-E-Golf Cl Aut Fwd-----egolf
-Id Buzz
-Volk,6Ye-----ID.6
+Id4": "Id.4",
+Id 4": "Id.4",
+Jrg": "Id.4",
+1.0D.4": "Id.4",
+1.0D4": "Id.4",
+1D4 Awd": "Id.4 Pro S",
+Id4 Awd": "Id.4 Pro S",
+Id.4 Awd": "Id.4 Pro S",
+Id.4Awd": "Id.4 Pro S",
+1D.4 Awd": "Id.4 Pro S",
+Id 4 Awd": "Id.4 Pro S",
+Id4 Pro S": "Id.4 Pro S",
+Id.4 Awd S": "Id.4 Pro S",
+Id4 Awd S": "Id.4 Pro S",
+Id4 Pro": "Id.4 Pro S",
+Golf": "E-Golf",
+E Golf": "E-Golf",
+Egp ": "E-Golf",
+2.0Me": "E-Golf",
+E-Golf Cl Aut Fwd": "E-Golf",
+Volk,6Ye": "Id.6",
 
 
 Volvo
-C 40
-C40
-Ex 40----original-cambiar los demas a este
-Xc40
-Ede
-Xc 40
-Xc-40
-C40 Rch
-Xc40 Recharge
-C40 Recharge
-C40 Rch Twin Ult
-Xc40Rc Ultim
-Xc40Recharge
-Xc40 Rch
+C 40": "Ex 40",
+C40": "Ex 40",
+Xc40": "Ex 40",
+Ede": "Ex 40",
+Xc 40": "Ex 40",
+Xc-40": "Ex 40",
+C40 Rch": "Xc 40 Recharge Ultimate",
+Xc40 Recharge": "Xc 40 Recharge Ultimate",
+C40 Recharge": "Xc 40 Recharge",
+C40 Rch Twin Ult": "Xc 40 Recharge Ultimate",
+Xc40Rc Ultim": "Xc 40 Recharge Ultimate",
+Xc40Recharge": "Xc 40 Recharge",
+Xc40 Rch": "Xc 40 Recharge",
 
-
+---------------------DELETE VALUES------------------------
+7Fbj35 -----cargo bull----delete
+8Fbcu25
+P1B2R25V ------ car part--delete
+Sc4324 Vt1100C2F4----DELETE
+HAULOTTE-----DELETE
+4527.0A
+5533.0A
+Hta16P4527
+02-29-00----------delete------------
 
 
 {
