@@ -1,74 +1,66 @@
-"Maker: Audi, Model: 
-"Q4E": "Q4 E-Tron",
-"Q4": "Q4 E-Tron",
-"Q4 E": "Q4 E-Tron",
-"Q4 E Sb": "Q4 E-Tron",
-"Esv": "Q4 E-Tron",
-"E-Tron Technik Quatt": "Q4 E-Tron",
-"Q5E": "Q5 E-Tron",
-"Q5": "Q5 E-Tron",
-"E-Sb": "Q8 E-Tron Sportback",
-"E-TRON S SPORTBACK": "Q8 E-Tron Sportback",
-"Q8E Sb": "Q8 E-Tron Sportback",
-"Sq8 E": "Q8 E-Tron",
-"Q8 E": "Q8 E-Tron",
-"Etr": "E-Tron Gt",
-"Etro": "E-Tron Gt",
-"E-Tro": "E-Tron Gt",
-"E-Tron": "E-Tron Gt",
-"R7 Se": "Rs7",
-"R7Se": "Rs7",
-"3.0Ae": "A3",
-"Q6E": "Q6 E-Tron",
-"Q6": "Q6 E-Tron",
-"Q6 60E": "Q6 E-Tron",
-
-BMW 
-DELETE HEA
-"Ix Xdrive50 Hea": "Ix Xdrive50",
-"Cooper": "Mini Cooper Se",
-"Mini Coper": "Mini Cooper Se",
-
-Cadillac
-"Escalade": "Escalade Iq",
-"Esciq": "Escalade Iq",
-
-
-Chevrolet
-"Bolt Euv": "Bolt Ev Premier",
-"Bolt Euv Lt": "Bolt Ev Premier",
-"Bolt Ev Lt": "Bolt Ev Premier",
-"Bolt Premier": "Bolt Ev Premier",
-"Blazer": "Blazer Ev",
-"Blaev": "Blazer Ev",
-Lyriq =============== CADILLAC another maker
-"Bolt": "Bolt Ev",
-"Bolt Ev": "Bolt Ev",
-"Bolt Evv": "Bolt Ev",
-"Ssm": "Blazer Ss Ev",
-"Spark": "Spark Ev",
-"Equev": "Equinox Ev",
-"Equinox": "Equinox Ev",
-"Equinoxev": "Equinox Ev",
-"Silverado": "Silverado Ev",
-"Silvarado": "Silverado Ev",
-"Silverado  Ev": "Silverado Ev",
-"Silev": "Silverado Ev",
-"Ev600": "Brightdrop Ev600",
-
-
-
-Ford
+typos = {
+#Audi 
+	"Q4E": "Q4 E-Tron",
+	"Q4": "Q4 E-Tron",
+	"Q4 E": "Q4 E-Tron",
+	"Q4 E Sb": "Q4 E-Tron",
+	"Esv": "Q4 E-Tron",
+	"E-Tron Technik Quatt": "Q4 E-Tron",
+	"Q5E": "Q5 E-Tron",
+	"Q5": "Q5 E-Tron",
+	"E-Sb": "Q8 E-Tron Sportback",
+	"E-TRON S SPORTBACK": "Q8 E-Tron Sportback",
+	"Q8E Sb": "Q8 E-Tron Sportback",
+	"Sq8 E": "Q8 E-Tron",
+	"Q8 E": "Q8 E-Tron",
+	"Etr": "E-Tron Gt",
+	"Etro": "E-Tron Gt",
+	"E-Tro": "E-Tron Gt",
+	"E-Tron": "E-Tron Gt",
+	"R7 Se": "Rs7",
+	"R7Se": "Rs7",
+	"3.0Ae": "A3",
+	"Q6E": "Q6 E-Tron",
+	"Q6": "Q6 E-Tron",
+	"Q6 60E": "Q6 E-Tron",
+#BMW 
+	"Ix Xdrive50 Hea": "Ix Xdrive50",
+	"Cooper": "Mini Cooper Se",
+	"Mini Coper": "Mini Cooper Se",
+#Cadillac
+	"Escalade": "Escalade Iq",
+	"Esciq": "Escalade Iq",
+#Chevrolet
+	"Bolt Euv": "Bolt Ev Premier",
+	"Bolt Euv Lt": "Bolt Ev Premier",
+	"Bolt Ev Lt": "Bolt Ev Premier",
+	"Bolt Premier": "Bolt Ev Premier",
+	"Blazer": "Blazer Ev",
+	"Blaev": "Blazer Ev",
+	"Bolt": "Bolt Ev",
+	"Bolt Ev": "Bolt Ev",
+	"Bolt Evv": "Bolt Ev",
+	"Ssm": "Blazer Ss Ev",
+	"Spark": "Spark Ev",
+	"Equev": "Equinox Ev",
+	"Equinox": "Equinox Ev",
+	"Equinoxev": "Equinox Ev",
+	"Silverado": "Silverado Ev",
+	"Silvarado": "Silverado Ev",
+	"Silverado  Ev": "Silverado Ev",
+	"Silev": "Silverado Ev",
+	"Ev600": "Brightdrop Ev600",
+#Ford
 	"F150 Lightning": "F-150 Lightning",
-p	"Lightning": "F-150 Lightning",
-"W1Xe": "F-150 Lightning",
-"F150 Lightening": "F-150 Lightning",
-"F150": "F-150 Lightning",
-"F 150": "F-150 Lightning",
-"F-150": "F-150 Lightning",
-"F150 4*4 C": "F-150 4x4 Supercrew",
-"F150 4X4 C": "F-150 4x4 Supercrew",
-"F150 4X4": "F-150 4x4 Supercrew",
+	"Lightning": "F-150 Lightning",
+	"W1Xe": "F-150 Lightning",
+	"F150 Lightening": "F-150 Lightning",
+	"F150": "F-150 Lightning",
+	"F 150": "F-150 Lightning",
+	"F-150": "F-150 Lightning",
+	"F150 4*4 C": "F-150 4x4 Supercrew",
+	"F150 4X4 C": "F-150 4x4 Supercrew",
+	"F150 4X4": "F-150 4x4 Supercrew",
 	"F-150 Supercre": "F-150 4x4 Supercrew",
 	"Trans": "E-Transit Cargo Van",
 	"Transit": "E-Transit Cargo Van",
@@ -103,9 +95,7 @@ p	"Lightning": "F-150 Lightning",
 	"Musta": "Mustang Mach-E",
 	"Mach Premium Aw": "Mustang Mach-E Premium Awd",
 	"Tke": "Ranger Tke",
-
-
-GMC
+#GMC
 	"Hummer": "Hummer Ev Suv",
 	"Hummr": "Hummer Ev Suv",
 	"Hummer Ev": "Hummer Ev Suv",
@@ -113,14 +103,9 @@ GMC
 	"Sierra": "Sierra Ev",
 	"Sieev": "Sierra Ev",
 	"Sierra-Ev": "Sierra Ev",
-
-
-
-HONDA
+#HONDA
 	"Crv": "Cr-V",
-
-
-HYUNDAI 
+#HYUNDAI 
 	"Ion": "Ioniq Ev",
 	"Ionqi": "Ioniq Ev",
 	"Ioniq": "Ioniq Ev",
@@ -136,7 +121,6 @@ HYUNDAI
 	"Ioniq- 5": "Ioniq 5",
 	"Gv60": "Genesis Gv60",
 	"Kona Pref E/V": "Kona Ev Preferred",
-Asp ---------------DELETE?
 	"Kona": "Kona Ev",
 	"K3G Kona": "Kona Ev",
 	"K2G": "Kona Ev",
@@ -148,220 +132,175 @@ Asp ---------------DELETE?
 	"Kona Electric": "Kona Ev",
 	"Kona Electrci": "Kona Ev",
 	"Kona Ultimate": "Kona Ev Ultimate",
-
-
-
-
-JAGUAR
-I-Pace
+#JAGUAR
 	"Ipace": "I-Pace",
-
-JEEP
-Wrangler": "Wrangler Unlimited 4xe",
-Grand": "Grand Cherokee",
-Grand Cherokee
-Wrangler Unlimited": "Wrangler Unlimited 4xe",
-
-KIA
-Niro": "Niro Ev",
-Niro Ex": "Niro Ev",
-Niro Electric": "Niro Ev",
-Niro Sg2 Phev": "Niro Ev",
-Soul": "Soul Ev",
-Sev (Soul)": "Soul Ev",
-Soul Ev (Sk3Ev)": "Soul Ev",
-Soul Electric": "Soul Ev",
-Soul Ev (Sk3 Ev": "Soul Ev",
-Soul Ev (Sk3 Ev)": "Soul Ev",
-Ev9
-Ev6 -----------GT
-Ev6 (Cv)
-Ev6 Cv
-Ev6(Cv)
-Kona Ev -------------hyundai
-Kona
-
-
-Maker: Lexus, Model: 
-Rx": "Rz",
-
-
-MAZDA
-Mx30": "Mx-30 Ev",
-Mx-30": "Mx-30 Ev",
-
-
-MERCEDES BENZ
-Amg Eqs 4Matic----good
-Eqe": "Eqe 350 4Matic",
-Eqe350": "Eqe 350 4Matic",
-Eqe 350": "Eqe 350 4Matic",
-Equ350": "Eqe 350 4Matic",
-Eqs450": "Eqs 450 4Matic",
-Eqs 450": "Eqs 450 4Matic",
-Eqs4504Matic": "Eqs 450 4Matic",
-Eqs 580": "Eqs 580 4Matic",
-Eqs580": "Eqs 580 4Matic",
-Eqs 580 4Matic": "Eqs 580 4Matic",
-Eqb250": "Eqb 250",
-Eqb300": "Eqb 300",
-Eqb350": "Eqb 350",
-Eqb": "Eqb 350",
-E2C170H-My24": "Eqa 250",
-
-
-
-MINI
-Cooper Se": "Cooper Se",
-Cooper": "Cooper Se",
-Cooperse3Door": "Cooper Se",
-Se": "Cooper Se",
-Cooper Se 3-Ddor": "Cooper Se",
-Cooper Se 3-Door": "Cooper Se",
-Cooperse": "Cooper Se",
-Cooper Se 3 Door": "Cooper Se",
-Countryman": "Cooper Countryman",
-
-
-
-MITSUBISHI
-Imiev": "I-Miev",
-I Miev": "I-Miev",
-
-
-NISSAN
-Lsv": "Leaf",
-Ssr": "Leaf",
-Lvl": "Leaf",
-Lfs": "Leaf",
-Leal": "Leaf",
-Aryia": "Ariya",
-Leaf S/Sv/Sl": "Leaf S Plus",
-Leaf S Auto": "Leaf S Plus",
-
-
-POLESTAR
-2 Long Range Dual
-2
-3
-POLESTAR MOTOR VEHICLES
-2
-01-31-00": "1",
-
-
-PORSCHE
-Y1Ade1": "Taycan",
-Y1Afc1": "Taycan",
-Macan": "Macan Ev",
-Xabbb1": "Macan 4",
-
-
-RIVIAN
-Rs1": "R1S",
-Tge": "R1T",
-
-
-SMART
-Fortwo": "Eq Fortwo",
-Fortw": "Eq Fortwo",
-
-
-Tesla
-Y": "Model Y",
-Yge": "Model Y",
-Modey Y": "Model Y",
-Model  Y": "Model Y",
-Modely": "Model Y",
-Y Long Range Awd": "Model Y Long Range",
-Long Range": "Model Y Long Range",
-Model Y Rear Wheel": "Model Y",
-Y Rear Wheel": "Model Y Rwd",
-3": "Model 3",
-3.0Ee": "Model 3",
-3.0D": "Model 3",
-3.0000000": "Model 3",
-Tesla 3": "Model 3",
-T3": "Model 3",
-Mode 3": "Model 3",
-Model3": "Model 3",
-Mode; 3": "Model 3",
-Mocel 3": "Model 3",
-Tesl 3 2019": "Model 3",
-Model 3 Rear-Wheel D": "Model 3 Rwd",
-X": "Model X",
-Xce": "Model X",
-Modelx": "Model X",
-Model X Long Range": "Model X",
-X75D": "Model X 75D",
-X P100D": "Model X P100D",
-Model": "Model X",
-S": "Model S",
-Mss": "Model S",
-Sedan": "Model S",
-5": "Model S",
-Ms5": "Model S",
-Model S": "Model S",
-75.0D": "Model S 75D",
-Modle S 85D": "Model S 85D",
-S 85D": "Model S 85D",
-S90D": "Model S 90D",
-
-
-Toyota
-Rav4": "Rav4 Hybrid",
-Rav4 Hv": "Rav4 Hybrid",
-Corolla Cross Hybrid
-Corolla": "Corolla Cross Hybrid",
-Corolla Hybrid": "Corolla Cross Hybrid",
-Corolla Cross": "Corolla Cross Hybrid",
-Grand Highlander Hyb": "Grand Highlander Hybrid",
-Grand Highlander": "Grand Highlander Hybrid",
-Highlander": "Grand Highlander Hybrid",
-Highlander Hybrid": "Grand Highlander Hybrid",
-
-
-Volkswagen
-Id4": "Id.4",
-Id 4": "Id.4",
-Jrg": "Id.4",
-1.0D.4": "Id.4",
-1.0D4": "Id.4",
-1D4 Awd": "Id.4 Pro S",
-Id4 Awd": "Id.4 Pro S",
-Id.4 Awd": "Id.4 Pro S",
-Id.4Awd": "Id.4 Pro S",
-1D.4 Awd": "Id.4 Pro S",
-Id 4 Awd": "Id.4 Pro S",
-Id4 Pro S": "Id.4 Pro S",
-Id.4 Awd S": "Id.4 Pro S",
-Id4 Awd S": "Id.4 Pro S",
-Id4 Pro": "Id.4 Pro S",
-Golf": "E-Golf",
-E Golf": "E-Golf",
-Egp ": "E-Golf",
-2.0Me": "E-Golf",
-E-Golf Cl Aut Fwd": "E-Golf",
-Volk,6Ye": "Id.6",
-
-
-Volvo
-C 40": "Ex 40",
-C40": "Ex 40",
-Xc40": "Ex 40",
-Ede": "Ex 40",
-Xc 40": "Ex 40",
-Xc-40": "Ex 40",
-C40 Rch": "Xc 40 Recharge Ultimate",
-Xc40 Recharge": "Xc 40 Recharge Ultimate",
-C40 Recharge": "Xc 40 Recharge",
-C40 Rch Twin Ult": "Xc 40 Recharge Ultimate",
-Xc40Rc Ultim": "Xc 40 Recharge Ultimate",
-Xc40Recharge": "Xc 40 Recharge",
-Xc40 Rch": "Xc 40 Recharge",
+#JEEP
+	"Wrangler": "Wrangler Unlimited 4xe",
+	"Grand": "Grand Cherokee",
+	"Grand Cherokee
+	"Wrangler Unlimited": "Wrangler Unlimited 4xe",
+#KIA
+	"Niro": "Niro Ev",
+	"Niro Ex": "Niro Ev",
+	"Niro Electric": "Niro Ev",
+	"Niro Sg2 Phev": "Niro Ev",
+	"Soul": "Soul Ev",
+	"Sev (Soul)": "Soul Ev",
+	"Soul Ev (Sk3Ev)": "Soul Ev",
+	"Soul Electric": "Soul Ev",
+	"Soul Ev (Sk3 Ev": "Soul Ev",
+	"Soul Ev (Sk3 Ev)": "Soul Ev",
+	"Ev6 (Cv)": "Ev 6 Cv",
+	"Ev6 Cv": "Ev 6 Cv",
+	"Ev6(Cv)": "Ev 6 Cv",
+#Lexus 
+	"Rx": "Rz",
+#MAZDA
+	"Mx30": "Mx-30 Ev",
+	"Mx-30": "Mx-30 Ev",
+#MERCEDES BENZ
+	"Eqe": "Eqe 350 4Matic",
+	"Eqe350": "Eqe 350 4Matic",
+	"Eqe 350": "Eqe 350 4Matic",
+	"Equ350": "Eqe 350 4Matic",
+	"Eqs450": "Eqs 450 4Matic",
+	"Eqs 450": "Eqs 450 4Matic",
+	"Eqs4504Matic": "Eqs 450 4Matic",
+	"Eqs 580": "Eqs 580 4Matic",
+	"Eqs580": "Eqs 580 4Matic",
+	"Eqs 580 4Matic": "Eqs 580 4Matic",
+	"Eqb250": "Eqb 250",
+	"Eqb300": "Eqb 300",
+	"Eqb350": "Eqb 350",
+	"Eqb": "Eqb 350",
+	"E2C170H-My24": "Eqa 250",
+#MINI
+	"Cooper Se": "Cooper Se",
+	"Cooper": "Cooper Se",
+	"Cooperse3Door": "Cooper Se",
+	"Se": "Cooper Se",
+	"Cooper Se 3-Ddor": "Cooper Se",
+	"Cooper Se 3-Door": "Cooper Se",
+	"Cooperse": "Cooper Se",
+	"Cooper Se 3 Door": "Cooper Se",
+	"Countryman": "Cooper Countryman",
+#MITSUBISHI
+	"Imiev": "I-Miev",
+	"I Miev": "I-Miev",
+#NISSAN
+	"Lsv": "Leaf",
+	"Ssr": "Leaf",
+	"Lvl": "Leaf",
+	"Lfs": "Leaf",
+	"Leal": "Leaf",
+	"Aryia": "Ariya",
+	"Leaf S/Sv/Sl": "Leaf S Plus",
+	"Leaf S Auto": "Leaf S Plus",
+#POLESTAR MOTOR VEHICLES
+	"01-31-00": "1",
+#PORSCHE
+	"Y1Ade1": "Taycan",
+	"Y1Afc1": "Taycan",
+	"Macan": "Macan Ev",
+	"Xabbb1": "Macan 4",
+#RIVIAN
+	"Rs1": "R1S",
+	"Tge": "R1T",
+#SMART
+	"Fortwo": "Eq Fortwo",
+	"Fortw": "Eq Fortwo",
+#Tesla
+	"Y": "Model Y",
+	"Yge": "Model Y",
+	"Modey Y": "Model Y",
+	"Model  Y": "Model Y",
+	"Modely": "Model Y",
+	"Y Long Range Awd": "Model Y Long Range",
+	"Long Range": "Model Y Long Range",
+	"Model Y Rear Wheel": "Model Y",
+	"Y Rear Wheel": "Model Y Rwd",
+	"3": "Model 3",
+	"3.0Ee": "Model 3",
+	"3.0D": "Model 3",
+	"3.0000000": "Model 3",
+	"Tesla 3": "Model 3",
+	"T3": "Model 3",
+	"Mode 3": "Model 3",
+	"Model3": "Model 3",
+	"Mode; 3": "Model 3",
+	"Mocel 3": "Model 3",
+	"Tesl 3 2019": "Model 3",
+	"Model 3 Rear-Wheel D": "Model 3 Rwd",
+	"X": "Model X",
+	"Xce": "Model X",
+	"Modelx": "Model X",
+	"Model X Long Range": "Model X",
+	"X75D": "Model X 75D",
+	"X P100D": "Model X P100D",
+	"Model": "Model X",
+	"S": "Model S",
+	"Mss": "Model S",
+	"Sedan": "Model S",
+	"5": "Model S",
+	"Ms5": "Model S",
+	"Model S": "Model S",
+	"75.0D": "Model S 75D",
+	"Modle S 85D": "Model S 85D",
+	"S 85D": "Model S 85D",
+	"S90D": "Model S 90D",
+#Toyota
+	"Rav4": "Rav4 Hybrid",
+	"Rav4 Hv": "Rav4 Hybrid",
+	"Corolla Cross Hybrid
+	"Corolla": "Corolla Cross Hybrid",
+	"Corolla Hybrid": "Corolla Cross Hybrid",
+	"Corolla Cross": "Corolla Cross Hybrid",
+	"Grand Highlander Hyb": "Grand Highlander Hybrid",
+	"Grand Highlander": "Grand Highlander Hybrid",
+	"Highlander": "Grand Highlander Hybrid",
+	"Highlander Hybrid": "Grand Highlander Hybrid",
+#Volkswagen
+	"Id4": "Id.4",
+	"Id 4": "Id.4",
+	"Jrg": "Id.4",
+	"1.0D.4": "Id.4",
+	"1.0D4": "Id.4",
+	"1D4 Awd": "Id.4 Pro S",
+	"Id4 Awd": "Id.4 Pro S",
+	"Id.4 Awd": "Id.4 Pro S",
+	"Id.4Awd": "Id.4 Pro S",
+	"1D.4 Awd": "Id.4 Pro S",
+	"Id 4 Awd": "Id.4 Pro S",
+	"Id4 Pro S": "Id.4 Pro S",
+	"Id.4 Awd S": "Id.4 Pro S",
+	"Id4 Awd S": "Id.4 Pro S",
+	"Id4 Pro": "Id.4 Pro S",
+	"Golf": "E-Golf",
+	"E Golf": "E-Golf",
+	"Egp ": "E-Golf",
+	"2.0Me": "E-Golf",
+	"E-Golf Cl Aut Fwd": "E-Golf",
+	"Volk,6Ye": "Id.6",
+#Volvo
+	"C 40": "Ex 40",
+	"C40": "Ex 40",
+	"Xc40": "Ex 40",
+	"Ede": "Ex 40",
+	"Xc 40": "Ex 40",
+	"Xc-40": "Ex 40",
+	"C40 Rch": "Xc 40 Recharge Ultimate",
+	"Xc40 Recharge": "Xc 40 Recharge Ultimate",
+	"C40 Recharge": "Xc 40 Recharge",
+	"C40 Rch Twin Ult": "Xc 40 Recharge Ultimate",
+	"Xc40Rc Ultim": "Xc 40 Recharge Ultimate",
+	"Xc40Recharge": "Xc 40 Recharge",
+	"Xc40 Rch": "Xc 40 Recharge",
+}
 
 ---------------------DELETE VALUES------------------------
-7Fbj35 -----cargo bull----delete
+7Fbj35
 8Fbcu25
+Asp ---------------DELETE
 P1B2R25V ------ car part--delete
 Sc4324 Vt1100C2F4----DELETE
 HAULOTTE-----DELETE
@@ -370,52 +309,7 @@ HAULOTTE-----DELETE
 Hta16P4527
 02-29-00----------delete------------
 
-
-{
-    "Q5E": "Q5 E",
-    "Q4E": "Q4 E",
-    "Etr": "E-tron",
-    "Mini Coper": "Mini Cooper",
-    "02-29-00": "",
-    "Esciq": "Escalade Iq",
-    "Blaev": "Blazer Ev",
-    "Equev": "Equinox Ev",
-    "Equinoxev": "Equinox Ev",
-    "Silev": "Silverado Ev",
-    "Silverado  Ev": "Silverado Ev",
-    "Silvarado": "Silverado Ev",
-    "Trans": "E-Transit Cargo Van",
-    "Trans Cargo": "E-Transit Cargo Van",
-    "F150 Lightning": "F-150 Lightning",
-    "F150 Lightening": "F-150 Lightning",
-    "Mach-": "Mustang Mach-E",
-    "Mach": "Mustang Mach-E",
-    "Mache": "Mustang Mach-E",
-    "Mache-E": "Mustang Mach-E",
-    "Mach-Mustang": "Mustang Mach-E",
-    "F150": "F-150 Lightning",
-    "F 150": "F-150 Lightning",
-    "F 150": "F-150 Lightning",
-    "Lightning": "F-150 Lightning",
-    "W1Xe": "F-150 Supercrew",
-    "F-150 Supercre": "F-150 Supercrew",
-    "F150 4*4 C": "F-150 4x4 Cargo",
-    "F150 4X4 C": "F-150 4x4 Cargo",
-    "Mustand Mach": "Mustang Mach-E",
-    "Musta": "Mustang Mach-E",
-    "Mustang Ma": "Mustang Mach-E",
-    "Mustang  Ma": "Mustang Mach-E",
-    "Mustang Mac": "Mustang Mach-E",
-    "Mustang Mach E": "Mustang Mach-E",
-    "Mustang Mach E K34": "Mustang Mach-E",
-    "Mustand Mach-E": "Mustang Mach-E",
-    "Mach E Mustang": "Mustang Mach-E",
-    "Mustang Mach-": "Mustang Mach-E",
-    "Tke": "Ranger Tke",
-    "E Transit": "E-Transit Cargo Van",
-    "E-Transit Cargo": "E-Transit Cargo Van",
-    "Trans Hr Cargo R": "E-Transit Cargo Van",
-    "Ford Transit 350 Van": "E-Transit 350 Van",
-    "E-Transit 350": "E-Transit 350 Van",
-    "Tran Mr Cargo R": "E-Transit Cargo Van",
-}
+------------WRONG MAKER
+Kona Ev -------------hyundai
+Kona
+Lyriq =============== CADILLAC another maker
